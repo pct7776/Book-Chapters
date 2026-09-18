@@ -1,0 +1,49 @@
+# Academic Publications & Book Chapters
+
+A centralized scholarly repository tracking my published research contributions, peer-reviewed book chapters, conference submissions, and associated academic metrics. 
+
+## 📚 Highlighted Publication
+
+### **The Role of Artificial Intelligence in Marketing and Advertising**
+* **Author:** Poornachandra Tejaswi (Lab Instructor, Department of Information Science & Engineering, New Horizon College of Engineering, Bangalore)
+* **Venue:** Chapter 13 (Pages 190–210) in the edited collection: *Synthetic Media: Navigating the Future of AI & ML Generated Content, Opportunities, Threats and the Future of Humanity*
+* **Publication Date:** September 2025
+* **ISBN:** 978-93-342-2429-0
+
+---
+
+## 🔍 Chapter Abstract & Core Research Focus
+
+Artificial Intelligence (AI) has emerged as a transformative force across industries, and marketing and advertising are no exceptions. The integration of AI technologies such as machine learning, natural language processing, predictive analytics, and computer vision is reshaping how brands understand, interact with, and serve their customers. 
+
+This research investigates the operational shift from traditional historical-data strategies to real-time, data-driven frameworks. It maps out four foundational technical domains enabling hyper-personalization, automated data workflows, and optimized campaign return on investment (ROI):
+
+### 🛠️ Explored Core Technologies & Applications
+* **Machine Learning (ML):** Paradigms in Supervised, Unsupervised, and Reinforcement learning driving customer micro-segmentation, dynamic real-time pricing models, proactive churn prediction engines, and algorithmic marketing mix attribution frameworks.
+* **Natural Language Processing (NLP):** Engineering text-comprehension mechanics for large-scale social listening sentiment analysis, contextual conversational chatbots, and automated voice search optimization (Voice SEO).
+* **Predictive Analytics:** Statistical modeling implementations estimating precise Customer Lifetime Value (CLV), lead conversion probability scoring maps, and pre-launch campaign forecasting simulations.
+* **Computer Vision:** Visual recognition implementations powering image-upload catalog matching, Augmented Reality (AR) immersive shopping interfaces, in-store analytics retail heat-mapping, and programmatic targeted digital displays.
+
+The study concludes with real-world enterprise case studies (including architectural examinations of personalization loops utilized by **Netflix** and **Sephora**), paired with rigorous explorations of data privacy standards (GDPR/CCPA/DPDP Act compliance thresholds), algorithmic bias mitigations, and the systemic rise of next-generation Autonomous Marketing Platforms.
+
+---
+
+## 📂 Repository File Architecture
+
+```text
+├── assets/
+│   └── certification/             # Official editorial board credentials
+│       └── 2025_Synthetic_Media_Acceptance.pdf
+├── core-chapters/
+│   └── ch13-ai-marketing-advertising/
+│       ├── raw-manuscript.md      # Full-text research manuscript
+│       └── technical-figures/     # High-resolution architectural flowcharts
+└── README.md                      # Main tracking documentation index
+```
+
+---
+
+## 🗂️ Metadata & Classification Registry
+* **Keywords:** `Personalized Marketing` • `Predictive Analytics` • `Conversational Commerce` • `Ethical AI` • `Customer Engagement` • `Computer Vision`
+* **Academic Citation Scheme:** APA 7th Edition Framework Compliance
+* **Review Cycle Credentials:** Certified, audited, and cleared for release under full editorial signature blocks (Moradabad Institute of Technology & St. Xavier's University).
